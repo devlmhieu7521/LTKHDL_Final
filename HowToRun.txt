@@ -1,0 +1,7 @@
+- Step 1: Open terminal or cmd.
+- Step 2: Go to the folder which has the project.
+- Step 3: Open the jupyter notebook with “min_ds-env”
+	- “conda activate min_ds-env”
+	- “jupyter notebook”
+- Step 4: Open file .ipynb in jupyter notebook
+- Step 5: Click to Kernel —> Restart & Run all
